@@ -44,11 +44,12 @@ border-radius: 20px;
 max-width: 1000px;
 }
 .right{
+	filter: invert(8%) sepia(13%) saturate(3207%) hue-rotate(249deg) brightness(95%) contrast(80%);
 	width: 450.3345px;
 	background: url(./image/image-header-desktop.jpg);
 	background-size:cover;
 background-position: center;
-filter: invert(8%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);
+
 
   
 }
